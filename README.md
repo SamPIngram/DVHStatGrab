@@ -7,6 +7,7 @@ Package for grabbing DVH statistics with little safeguarding in the case of over
 ### TODOs
 - Isolate DVH code and remove requirements that aren't needed (e.g. matplotlib).
 - Add functionality for *simple* dose summation (i.e. assumes single structure file and multiple dose files with the same co-ordinate space.)
+- Add popup for password if zip files are password locked
 
 ### For Pyinstaller:
 Note on windows PyInstaller being called in this way is case-senstive
